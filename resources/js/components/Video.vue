@@ -20,9 +20,7 @@ export default {
     },
     methods: {
         nxtvideoplay() {
-
             window.location.replace(this.nextvideourl)
-
         }
     },
     mounted() {
